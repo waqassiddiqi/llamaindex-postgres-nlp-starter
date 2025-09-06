@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+SQLAlchemy
+psycopg2-binary
+pandas
+llama-index
+openai
+tiktoken
